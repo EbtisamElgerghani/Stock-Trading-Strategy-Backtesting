@@ -1,1 +1,1 @@
-# Stock-Trading-Strategy-Backtesting
+#### Stock Trading Strategy Backtesting Project
